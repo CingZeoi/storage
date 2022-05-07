@@ -1,0 +1,10 @@
+LRESULT CALLBACK WndProc(HWND hWnd,UINT message,WPARAM wparam,LPARAM lparam);
+BOOL RgstrWndCls();
+void CrtDlg();
+void CrtMnWnd();
+void ClickBrowse(void);
+void ClickOK(void);
+void ClickCancle(void);
+void ClickBegin(void);
+void ClickPause(void);
+int ten(int a);
